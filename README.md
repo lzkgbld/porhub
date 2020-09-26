@@ -1,4 +1,4 @@
-# 使用Python的scrapy框架开发的pornhub视频爬虫。
+
 
 
 ## 使用方法：
