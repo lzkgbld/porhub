@@ -1,5 +1,5 @@
 PyMySQL==0.9.3
 youtube-dl==2020.6.16.1
-lxml==4.6.2
+lxml==4.6.5
 requests==2.23.0
 requests-toolbelt==0.9.1
